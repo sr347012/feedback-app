@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  /* border: 2px solid; */
+  border-radius: 5px;
+  background-color: darkcyan;
+  width: 60%;
+  align-items: center;
+}
+
+.numDisplay {
+  background-color: antiquewhite;
+  width: 2%;
+  height: 10%;
+  border-radius: 50%;
+  /* border: 1px solid red; */
+  text-align: center;
+  margin-top: -5px;
+}
+
+.numText {
+  text-align: center;
+
+}
+
